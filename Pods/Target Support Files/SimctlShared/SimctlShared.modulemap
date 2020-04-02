@@ -1,0 +1,6 @@
+framework module SimctlShared {
+  umbrella header "SimctlShared-umbrella.h"
+
+  export *
+  module * { export * }
+}

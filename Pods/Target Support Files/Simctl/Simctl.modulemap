@@ -1,0 +1,6 @@
+framework module Simctl {
+  umbrella header "Simctl-umbrella.h"
+
+  export *
+  module * { export * }
+}

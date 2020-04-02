@@ -1,0 +1,5 @@
+${PODS_ROOT}/Target Support Files/Pods-SwiftSimctlExample-SwiftSimctlExampleUITests/Pods-SwiftSimctlExample-SwiftSimctlExampleUITests-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Simctl/Simctl.framework
+${BUILT_PRODUCTS_DIR}/SimctlShared/SimctlShared.framework
+${BUILT_PRODUCTS_DIR}/SnapshotTesting/SnapshotTesting.framework
+${BUILT_PRODUCTS_DIR}/Swifter/Swifter.framework

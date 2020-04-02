@@ -1,0 +1,43 @@
+PODS:
+  - Simctl (0.1.0):
+    - SimctlShared (~> 0.1.0)
+    - Swifter (~> 1.4.7)
+  - SimctlShared (0.1.0)
+  - SnapshotTesting (1.7.2)
+  - Swifter (1.4.7)
+
+DEPENDENCIES:
+  - Simctl (from `https://github.com/ctreffs/SwiftSimctl.git`, branch `feature/cocoapod-update`)
+  - SimctlShared (from `https://github.com/ctreffs/SwiftSimctl.git`, branch `feature/cocoapod-update`)
+  - SnapshotTesting (~> 1.7.2)
+
+SPEC REPOS:
+  trunk:
+    - SnapshotTesting
+    - Swifter
+
+EXTERNAL SOURCES:
+  Simctl:
+    :branch: feature/cocoapod-update
+    :git: https://github.com/ctreffs/SwiftSimctl.git
+  SimctlShared:
+    :branch: feature/cocoapod-update
+    :git: https://github.com/ctreffs/SwiftSimctl.git
+
+CHECKOUT OPTIONS:
+  Simctl:
+    :commit: 62d94b818aeebf7628bdd84cf56cee34ecdf2098
+    :git: https://github.com/ctreffs/SwiftSimctl.git
+  SimctlShared:
+    :commit: 62d94b818aeebf7628bdd84cf56cee34ecdf2098
+    :git: https://github.com/ctreffs/SwiftSimctl.git
+
+SPEC CHECKSUMS:
+  Simctl: 314ee7935cec060d8c4ad526865bac7fe72b9fba
+  SimctlShared: 18c985a44ea2077abee00ca30c0d08663f86f884
+  SnapshotTesting: 8caa6661fea7c8019d5b46de77c16bab99c36c5c
+  Swifter: 2327ef5d872c638aebab79646ce494af508b0c8f
+
+PODFILE CHECKSUM: 2d78438f9c408b800724c403eb1b16020cbe5c4e
+
+COCOAPODS: 1.9.1

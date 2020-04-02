@@ -1,0 +1,6 @@
+framework module Pods_SwiftSimctlExample_SwiftSimctlExampleUITests {
+  umbrella header "Pods-SwiftSimctlExample-SwiftSimctlExampleUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
