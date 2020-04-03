@@ -8,7 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		2ABC1EDD0521BC0B12EE63CD /* Pods_SwiftSimctlExample.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 48A0FDE1ED4152BD123134A5 /* Pods_SwiftSimctlExample.framework */; };
-		F830E0C4242BA5B900875D0A /* ChangeAppearanceTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F830E0C3242BA5B900875D0A /* ChangeAppearanceTests.swift */; };
+		F830E0C4242BA5B900875D0A /* Example_02_ChangeAppearanceTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F830E0C3242BA5B900875D0A /* Example_02_ChangeAppearanceTests.swift */; };
 		F830E0C6242BA5E400875D0A /* Shared.swift in Sources */ = {isa = PBXBuildFile; fileRef = F830E0C5242BA5E400875D0A /* Shared.swift */; };
 		F851FF952423ADB20099A319 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F851FF942423ADB20099A319 /* AppDelegate.swift */; };
 		F851FF972423ADB20099A319 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F851FF962423ADB20099A319 /* SceneDelegate.swift */; };
@@ -16,7 +16,7 @@
 		F851FF9B2423ADB30099A319 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F851FF9A2423ADB30099A319 /* Assets.xcassets */; };
 		F851FF9E2423ADB30099A319 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F851FF9D2423ADB30099A319 /* Preview Assets.xcassets */; };
 		F851FFA12423ADB30099A319 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F851FF9F2423ADB30099A319 /* LaunchScreen.storyboard */; };
-		F851FFB72423ADB30099A319 /* HandlePushNotificationsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F851FFB62423ADB30099A319 /* HandlePushNotificationsTests.swift */; };
+		F851FFB72423ADB30099A319 /* Example_01_HandlePushNotificationsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F851FFB62423ADB30099A319 /* Example_01_HandlePushNotificationsTests.swift */; };
 		FA9E5624E74A86B81DFC8796 /* Pods_SwiftSimctlExample_SwiftSimctlExampleUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 380135007CB8D4EC90B20F53 /* Pods_SwiftSimctlExample_SwiftSimctlExampleUITests.framework */; };
 /* End PBXBuildFile section */
 
@@ -37,7 +37,7 @@
 		538E1B7D3E2ED4DFFCF255FA /* Pods-SwiftSimctlExample.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SwiftSimctlExample.release.xcconfig"; path = "Target Support Files/Pods-SwiftSimctlExample/Pods-SwiftSimctlExample.release.xcconfig"; sourceTree = "<group>"; };
 		675D41631CA09B3A6BF47452 /* Pods-SwiftSimctlExample-SwiftSimctlExampleUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SwiftSimctlExample-SwiftSimctlExampleUITests.release.xcconfig"; path = "Target Support Files/Pods-SwiftSimctlExample-SwiftSimctlExampleUITests/Pods-SwiftSimctlExample-SwiftSimctlExampleUITests.release.xcconfig"; sourceTree = "<group>"; };
 		99F9604DAE2DDFE108EA5D3D /* Pods-SwiftSimctlExample.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SwiftSimctlExample.debug.xcconfig"; path = "Target Support Files/Pods-SwiftSimctlExample/Pods-SwiftSimctlExample.debug.xcconfig"; sourceTree = "<group>"; };
-		F830E0C3242BA5B900875D0A /* ChangeAppearanceTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChangeAppearanceTests.swift; sourceTree = "<group>"; };
+		F830E0C3242BA5B900875D0A /* Example_02_ChangeAppearanceTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Example_02_ChangeAppearanceTests.swift; sourceTree = "<group>"; };
 		F830E0C5242BA5E400875D0A /* Shared.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Shared.swift; sourceTree = "<group>"; };
 		F851FF912423ADB20099A319 /* SwiftSimctlExample.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftSimctlExample.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F851FF942423ADB20099A319 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -48,7 +48,7 @@
 		F851FFA02423ADB30099A319 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F851FFA22423ADB30099A319 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		F851FFB22423ADB30099A319 /* SwiftSimctlExampleUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SwiftSimctlExampleUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		F851FFB62423ADB30099A319 /* HandlePushNotificationsTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HandlePushNotificationsTests.swift; sourceTree = "<group>"; };
+		F851FFB62423ADB30099A319 /* Example_01_HandlePushNotificationsTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Example_01_HandlePushNotificationsTests.swift; sourceTree = "<group>"; };
 		F851FFB82423ADB30099A319 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		F8B7BC5F2428E1D900B3BD7D /* Scripts */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Scripts; sourceTree = "<group>"; };
 		F8FB3BA62423B4F5000BB8CD /* SwiftSimctlExample.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = SwiftSimctlExample.entitlements; sourceTree = "<group>"; };
@@ -133,9 +133,9 @@
 			isa = PBXGroup;
 			children = (
 				F851FFB82423ADB30099A319 /* Info.plist */,
+				F851FFB62423ADB30099A319 /* Example_01_HandlePushNotificationsTests.swift */,
+				F830E0C3242BA5B900875D0A /* Example_02_ChangeAppearanceTests.swift */,
 				F830E0C5242BA5E400875D0A /* Shared.swift */,
-				F851FFB62423ADB30099A319 /* HandlePushNotificationsTests.swift */,
-				F830E0C3242BA5B900875D0A /* ChangeAppearanceTests.swift */,
 			);
 			path = SwiftSimctlExampleUITests;
 			sourceTree = "<group>";
@@ -328,8 +328,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				F830E0C6242BA5E400875D0A /* Shared.swift in Sources */,
-				F851FFB72423ADB30099A319 /* HandlePushNotificationsTests.swift in Sources */,
-				F830E0C4242BA5B900875D0A /* ChangeAppearanceTests.swift in Sources */,
+				F851FFB72423ADB30099A319 /* Example_01_HandlePushNotificationsTests.swift in Sources */,
+				F830E0C4242BA5B900875D0A /* Example_02_ChangeAppearanceTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
