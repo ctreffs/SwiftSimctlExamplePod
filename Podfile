@@ -12,8 +12,7 @@ target 'SwiftSimctlExample' do
   target 'SwiftSimctlExampleUITests' do
     # Pods for testing
     pod 'SnapshotTesting', '~> 1.7.2'
-    pod 'SimctlShared', :git => 'https://github.com/ctreffs/SwiftSimctl.git'
-    pod 'Simctl', :git => 'https://github.com/ctreffs/SwiftSimctl.git'
+    pod 'Simctl', '~> 0.2.0'
 
   end
 
